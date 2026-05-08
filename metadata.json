@@ -1,0 +1,6 @@
+{
+  "name": "JKN Flooring",
+  "description": "Architectural AI material consultant & website for JKN Flooring.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": []
+}
